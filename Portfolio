@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Junior Portfolio</title>
+</head>
+<body>
+    <h1>Samantha Payero</h1>
+
+    <h2>About Me</h2>
+    <p> I am currently a student at Thomas a Edison who is currently web design over the past two years, I have showcased my knowledge on HTML, unity & Python and much more.</p>
+
+    <h2>Education</h2>
+    <p>Thomas a Edison , .</p>
+
+    <h2>Projects</h2>
+    <ul>
+        <li>Project 1</li>
+        <li>Project 2</li>
+        <li>Project 3</li>
+        <li>Project 4</li>
+        <li>Project 5</li>
+        <li>Project 6</li>
+    </ul>
+
+    <h2>Skills</h2>
+    <ul>
+        <li>HTML</li>
+        <li>GitHub</li>
+    </ul>
+
+    <h2>Contact</h2>
+    <p>Email:Samanthap260@nycstudents.net</p>
+</body>
+</html>
